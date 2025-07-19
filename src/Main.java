@@ -2,6 +2,7 @@ import br.com.dio.desafio.dominio.Curso;
 import br.com.dio.desafio.dominio.Mentoria;
 import br.com.dio.desafio.dominio.*;
 
+
 public class Main {
     public static void main(String[] args) {
         Curso curso1 = new Curso();
